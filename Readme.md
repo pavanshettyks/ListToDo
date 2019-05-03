@@ -4,13 +4,17 @@
 
 #### Create react native app using `react-native ListToDo`
 Create a new ListToDo folder. Initialise the Git
-Connect it with github using `git remote add origin https://github.com/pavanshettyks/ListToDo.git`
+
+Connect it with github using
+ `git remote add origin https://github.com/pavanshettyks/ListToDo.git`
+
 Copy the files from previous ListToDo directory which has github setup.
 Push the new files.
 
 ### Run the app
 ### Need android studio with avd setup
 Run the following commands in the terminal to open the virtual device:
+
 `cd C:\Users\Pavan\AppData\Local\Android\Sdk\emulator
 
 emulator -list-avds
