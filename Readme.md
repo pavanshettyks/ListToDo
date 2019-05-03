@@ -22,5 +22,7 @@ emulator -list-avds
 emulator -avd Pixel_2_API_25`
 
 Now in a new terminal run the below command [its essential to run it in new terminal as closing the terminal closes virtual device]
+
 `cd ListToDo
+
 react-native run-android`
