@@ -1,8 +1,8 @@
-# Primary reference: https://facebook.github.io/react-native/docs/getting-started
+##### Primary reference: https://facebook.github.io/react-native/docs/getting-started
 
-# Faced while uploading the directory from ATOM to GitHub followed the below workaround
+### Faced while uploading the directory from ATOM to GitHub followed the below workaround
 
-# Create react native app using `react-native ListToDo`
+#### Create react native app using `react-native ListToDo`
 Create a new ListToDo folder. Initialise the Git
 Connect it with github using `git remote add origin https://github.com/pavanshettyks/ListToDo.git`
 Copy the files from previous ListToDo directory which has github setup.
