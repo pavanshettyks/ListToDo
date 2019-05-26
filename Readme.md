@@ -2,7 +2,7 @@
 
 ##### Faced a lot of issues while uploading the directory from ATOM to GitHub. Follow the below workaround
 
-#### Create react native app using `react-native ListToDo`
+#### Create react native app using `react-native init ListToDo`
 Create a new ListToDo folder. Initialise the Git
 
 Connect it with github using
@@ -30,3 +30,7 @@ Now in a new terminal run the below command [its essential to run it in new term
 react-native run-android`
 
 Press the R key twice or select Reload from the Developer Menu (Ctrl + M) to see your changes!
+
+
+
+https://invertase.io/oss/react-native-firebase/quick-start/android-firebase-credentials
