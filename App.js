@@ -12,7 +12,7 @@ import {Platform, StyleSheet, Text, View} from 'react-native';
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
   android:
-    'Double tap R some changes on your keyboard to reload,\n' +
+    'Double tme on your keyboard to reload,\n' +
     'Shake or pressTest',
 });
 
