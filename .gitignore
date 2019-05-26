@@ -53,6 +53,7 @@ buck-out/
 */fastlane/screenshots
 
 google-services.json
+#
 
 # Bundle artifact
 *.jsbundle
