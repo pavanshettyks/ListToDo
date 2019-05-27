@@ -34,7 +34,7 @@ Press the R key twice or select Reload from the Developer Menu (Ctrl + M) to see
 
 
 https://invertase.io/oss/react-native-firebase/quick-start/android-firebase-credentials
-
+https://invertase.io/blog/getting-started-with-cloud-firestore-on-react-native
 //////////////////////////////////////////////
 
 
