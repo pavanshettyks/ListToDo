@@ -34,3 +34,29 @@ Press the R key twice or select Reload from the Developer Menu (Ctrl + M) to see
 
 
 https://invertase.io/oss/react-native-firebase/quick-start/android-firebase-credentials
+
+//////////////////////////////////////////////
+
+
+React Native Firebase:
+npm install --save react-native-firebase
+npm install --save react-native-firebase/firestore
+npm install @firebase/firestore
+npm install firebase
+
+
+yarn add @react-native-firebase/firestore
+react-native link @react-native-firebase/firestore
+
+yarn add @react-native-firebase/app
+react-native link @react-native-firebase/app
+///////////////////////////////////////////////////////////////////////
+
+clean NPM:  npm  cache clean --force
+
+install firebase:  npm install --save react-native-firebase
+link firebase:     react-native link react-native-firebase
+
+
+clean grdadlle and build:  cd android
+                          ./gradlew clean
