@@ -103,6 +103,7 @@ android {
 
     defaultConfig {
         applicationId "com.listtodo"
+        multiDexEnabled true
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -138,10 +139,11 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-firebase')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     implementation "com.facebook.react:react-native:+"  // From node_modules
-
+     implementation "com.google.firebase:firebase-firestore:19.0.0"
     implementation 'com.google.firebase:firebase-core:16.0.9'
 }
 
